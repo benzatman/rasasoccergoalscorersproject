@@ -10,7 +10,7 @@ import gspread
 scope = ['https://www.googlapis.com/feeds','https://www.googlapis.com/auth/spreadsheets',
          'https://www.googleapis.com/auth/drive.file', 'https://www.googleapis.com/auth/drive']
 
-gc = gspread.service_account(filename="primordial-veld-328114-15112a3eb6b2.json")
+gc = gspread.service_account(filename="insert service acound file json")
 sheet = gc.open("2020/21 pl goalscorers").sheet1
 
 data = sheet.get_all_records()
