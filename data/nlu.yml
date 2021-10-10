@@ -97,11 +97,11 @@ nlu:
   examples: |
    - How many goals did [Harry Kane](player) score?
    - What was [Mo Salah](player) goal tally?
-   - What number of goals did [Aguero](player) score?
+   - What number of goals did [Sergio Aguero](player) score?
    - What amount of goals did [Jamie Vardy](player) score?
    - How many times did [Timo Werner](player) score?
    - How many time was [Edison Cavani](player) on target?
-   - How many times was [Patrick Bamford] on the scoresheet?
+   - How many times was [Patrick Bamford](player) on the scoresheet?
 
 
 
